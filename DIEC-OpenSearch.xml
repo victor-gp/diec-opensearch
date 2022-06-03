@@ -1,10 +1,10 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>[SNK]</ShortName>
-  <Description>[Search engine full name and summary]</Description>
-  <InputEncoding>[UTF-8]</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">[https://example.com/favicon.ico]</Image>
-  <Url type="text/html" template="[searchURL]"/>
-  <Url type="application/x-suggestions+json" template="[suggestionURL]"/>
-  <moz:SearchForm>[https://example.com/search]</moz:SearchForm>
+  <ShortName>diec</ShortName>
+  <Description>Cerca al Diccionari de la llengua catalana de l'Institut d'Estudis Catalans</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://dlc.iec.cat/img/favico.ico</Image>
+  <Url type="text/html" template="https://dlc.iec.cat/Results?DecEntradaText={searchTerms}">
+  <!-- <Url type="application/x-suggestions+json" template="[suggestionURL]"/> -->
+  <moz:SearchForm>https://dlc.iec.cat/</moz:SearchForm>
 </OpenSearchDescription>
