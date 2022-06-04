@@ -5,6 +5,8 @@
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://dlc.iec.cat/img/favico.ico</Image>
   <Url type="text/html" template="https://dlc.iec.cat/Results?DecEntradaText={searchTerms}" />
-  <Url type="application/x-suggestions+json" template="https://dlc.iec.cat/Results/CompleteEntradaText?EntradaText={searchTerms}&amp;OperEntrada=1" />
+  <!-- suggestions don't work because DIEC's response is not compatible with the OpenSearch schema -->
+  <!-- <Url type="application/x-suggestions+json"
+            template="https://dlc.iec.cat/Results/CompleteEntradaText?EntradaText={searchTerms}&amp;OperEntrada=1" /> -->
   <moz:SearchForm>https://dlc.iec.cat/</moz:SearchForm>
 </OpenSearchDescription>
