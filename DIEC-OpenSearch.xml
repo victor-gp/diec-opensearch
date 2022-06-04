@@ -1,6 +1,6 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>diec</ShortName>
+  <ShortName>DIEC</ShortName>
   <Description>Cerca al Diccionari de la llengua catalana de l'Institut d'Estudis Catalans</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://dlc.iec.cat/img/favico.ico</Image>
