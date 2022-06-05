@@ -9,5 +9,6 @@ També pel [Diccionari de sinònims d'Albert Jané](https://sinonims.iec.cat/sin
 ## Instruccions d'ús
 
 - Obre [la plana web](https://victor-gp.github.io/diec2-opensearch/) (és una pàgina en blanc).
-- Afegeix els motors de cerca seguint [aquestes instruccions per Firefox](https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox#w_add-a-search-engine-from-the-search-bar) (en anglès).
+- Afegeix els motors de cerca seguint [aquestes instruccions per Firefox](https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox) (en anglès).
 - Posa `about:preferences#search` a la barra d'adreces i afegeix dreceres de cerca pels motors. Per exemple: 'diec' o 'ca'.
+- Tecleja 'diec mot' a la barra d'adreces i comprova que funciona. (Substitueix 'diec' per la paraula clau que hagis escollit.)

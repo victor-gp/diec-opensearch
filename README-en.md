@@ -7,5 +7,6 @@ Also for the [Synonyms Dictionary by Albert Jané](https://sinonims.iec.cat/sino
 ## Usage
 
 - Open [the webpage](https://victor-gp.github.io/diec2-opensearch/) for this (it's ok if it's blank).
-- Add the search engines following [these instructions for Firefox](https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox#w_add-a-search-engine-from-the-search-bar)
+- Add the search engines following [these instructions for Firefox](https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox)
 - Go to `about:preferences#search` in the address bar and add search shortcuts for them. Choose 'diec', 'ca-sin', whatever.
+- Type 'diec mot' in the address bar and check if it works. (Replace 'diec' for the keyword you chose.)
