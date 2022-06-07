@@ -4,6 +4,8 @@ An [OpenSearch](https://developer.mozilla.org/en-US/docs/Web/OpenSearch) descrip
 
 Also for the [Synonyms Dictionary by Albert Jané](https://sinonims.iec.cat/sinonims_cerca_sin.asp), hosted in the IEC site as well.
 
+<img src="./assets/demo.gif" alt="Demo: using the DIEC2 as a search engine in Firefox">
+
 ## Usage
 
 - Open [the webpage](https://victor-gp.github.io/diec2-opensearch/) for this (it's ok if it's blank).

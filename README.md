@@ -6,6 +6,8 @@ Fitxer de descripció [OpenSearch](https://developer.mozilla.org/en-US/docs/Web/
 
 També pel [Diccionari de sinònims d'Albert Jané](https://sinonims.iec.cat/sinonims_cerca_sin.asp), disponible a la mateixa web de l'IEC.
 
+<img src="./assets/demo.gif" alt="Demo: fent servir el DIEC2 com a motor de cerca directa a Firefox">
+
 ## Instruccions d'ús
 
 - Obre [la plana web](https://victor-gp.github.io/diec2-opensearch/) (és una pàgina en blanc).
