@@ -1,0 +1,50 @@
+header, main, footer {
+    padding: 1.5rem clamp(1rem, 50vw - 20rem, 20vw);
+}
+
+body {
+    font: 120%/1.5 system-ui, sans-serif;
+}
+
+header {
+    background: #ffd500 /* var(--main-color); */
+}
+
+header > h1 {
+    margin: 0px;
+    text-align: center;
+    color: #e00000;
+}
+
+md-block:not([rendered]) {
+    white-space: pre-line;
+}
+
+md-block code {
+    padding: .1em .2em;
+    margin: 0;
+    font-size: 80%;
+    background-color: #eff1f3;
+    border-radius: 6px;
+}
+
+/* force the footer at the bottom even if there's not enough content */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+footer {
+    margin-top: auto;
+    background: #e0e7eb;
+    text-align: center;
+}
+
+li > p + p {
+    margin-top: -0.4rem;
+}
+
+li + li {
+    margin-top: 1.7rem;
+}
