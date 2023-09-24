@@ -7,13 +7,13 @@ body {
 }
 
 header {
-    background: #ffd500 /* var(--main-color); */
+    background: #111;
+    color: #ffd500;
 }
 
 header > h1 {
     margin: 0px;
     text-align: center;
-    color: #e00000;
 }
 
 md-block:not([rendered]) {
@@ -37,8 +37,17 @@ body {
 }
 footer {
     margin-top: auto;
-    background: #e0e7eb;
+    background: #080808;
+    color: #e00000;
     text-align: center;
+}
+
+footer > a {
+    color: #1e90ff;
+}
+
+footer > a:visited {
+    color: #8a2be2;
 }
 
 li > p + p {
