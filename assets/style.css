@@ -61,4 +61,6 @@ li + li {
 main img {
     max-width: 100%;
     height: auto;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
 }
