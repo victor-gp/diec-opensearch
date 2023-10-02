@@ -57,3 +57,8 @@ li > p + p {
 li + li {
     margin-top: 1.7rem;
 }
+
+main img {
+    max-width: 100%;
+    height: auto;
+}
