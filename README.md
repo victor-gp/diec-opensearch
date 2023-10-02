@@ -8,7 +8,7 @@ Fitxers de descripció OpenSearch pels següents recursos lingüístics:
 
 Segueix les instruccions a [la pàgina web](https://victor-gp.github.io/diec2-opensearch/) per afegir-los com a motor de cerca directa al Firefox.
 
-<img src="./assets/demo.gif" alt="Demo: fent servir el DIEC2 com a motor de cerca directa a Firefox">
+<img src="./assets/img/demo.gif" alt="Demo: fent servir el DIEC2 com a motor de cerca directa a Firefox">
 
 Més informació:
 
